@@ -2,4 +2,4 @@
 1. 회원가입과 취소 <br>
 <img src="https://user-images.githubusercontent.com/94151256/156819232-e0083d22-7b1c-41de-a66d-a09c07f70712.gif"><br>
 2. 회원정보의 수정과 삭제 <br>
-<img src="https://user-images.githubusercontent.com/94151256/156817040-a00b6fd3-c130-4755-886b-0251f402d7dd.gif">
+<img src="https://user-images.githubusercontent.com/94151256/156819599-0e3fbd73-35af-4039-ad85-e044e7a501e3.gif">
